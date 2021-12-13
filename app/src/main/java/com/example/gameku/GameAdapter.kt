@@ -23,6 +23,10 @@ class GameAdapter (private val context: Context, private val game: List<Game>, v
             imgGame.setImageResource(game.imgGame)
             nameGame.text = game.nameGame
             desGame.text = game.descGame
+
+            itemView.setOnClickListener{
+                listener(game)
+            }
         }
 
     }
