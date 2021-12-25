@@ -20,5 +20,8 @@ Here the user can see what games are being played and can join the game communit
 ## Logo
 ![](https://github.com/mekas/mb1313600022/blob/master/1313618038/logo.png)
 
+## Banner
+![](https://github.com/mekas/mb1313600022/blob/master/1313618038/banner.png)
+
 ## Mockup
 ![](https://github.com/mekas/mb1313600022/blob/master/1313618038/mockup.png)
