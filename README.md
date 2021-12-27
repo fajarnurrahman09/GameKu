@@ -5,7 +5,7 @@ this app about PC game reviews for users who want to find the best games and joi
 Here the user can see what games are being played and can join the game community.
 
 ## Link PlayStore
-[GameKu](https://play.google.com/store/apps/details?id=com.fajar.gameku)
+> https://play.google.com/store/apps/details?id=com.fajar.gameku
 
 ## Target Segment
 - Gamers PC
